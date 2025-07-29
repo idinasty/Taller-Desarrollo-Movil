@@ -6,22 +6,22 @@ const DetalleElemento = ({ navigation }) => {
     <View style={styles.container}>
       
 
-      {/* Imagen del elemento */}
+     
       <View style={styles.imageContainer}>
         <Image
-          source={require('../imagenes/detalle.png')} // Cambia por la ruta de tu imagen
+          source={require('../imagenes/detalle.png')} 
           style={styles.image}
         />
       </View>
 
-      {/* Texto del elemento */}
+   
       <Text style={styles.title}>Episodio 10 "Meke"</Text>
       <Text style={styles.price}>$29,99</Text>
       <Text style={styles.description}>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
       </Text>
 
-      {/* Botón de acción */}
+      
       <TouchableOpacity style={styles.button}>
         <Text style={styles.buttonText}>Acción</Text>
       </TouchableOpacity>
