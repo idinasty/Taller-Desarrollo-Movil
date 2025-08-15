@@ -1,0 +1,17 @@
+[
+    {
+      "nombre": "Andres Daniel",
+      "email": "ojoa2017@outlook.com",
+      "avatar": "https://i.pravatar.cc/150?img=3"
+    },
+    {
+      "nombre": "Maria López",
+      "email": "maria@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=4"
+    },
+    {
+      "nombre": "Juan Pérez",
+      "email": "juan@example.com",
+      "avatar": "https://i.pravatar.cc/150?img=5"
+    }
+  ]

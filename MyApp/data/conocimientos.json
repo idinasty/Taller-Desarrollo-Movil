@@ -1,0 +1,15 @@
+[
+    {
+      "titulo": "Episodio 1 - El Chupete",
+      "descripcion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ac erat vel nunc fermentum dictum.",
+      "urlImagen": "../imagenes/previa.png",
+      "mostrarTodo": false
+    },
+    {
+      "titulo": "Episodio 2 - Sin Escrúpulos",
+      "descripcion": "Proin vel massa vel justo sollicitudin laoreet. Duis gravida dictum orci, nec tincidunt augue ullamcorper ac.",
+      "urlImagen": "../imagenes/previa.png",
+      "mostrarTodo": true
+    }
+  ]
+  
